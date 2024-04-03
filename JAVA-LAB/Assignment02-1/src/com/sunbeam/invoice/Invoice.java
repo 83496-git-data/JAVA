@@ -42,7 +42,8 @@ public class Invoice {
 	
 	public void setQty(int qty) {
 		if(qty<0)
-		{qty=0;
+		{
+			qty=0;
 		}
 		this.qty=qty;
 		
@@ -54,7 +55,8 @@ public class Invoice {
 	
 	
 	public void setPrice(double price) {
-		if(price<0) {
+		if(price<0) 
+		{
 			price=0;
 		}
 		this.price=price;
