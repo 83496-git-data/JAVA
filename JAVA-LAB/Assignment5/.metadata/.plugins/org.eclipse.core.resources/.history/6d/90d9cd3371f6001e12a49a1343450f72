@@ -1,7 +1,0 @@
-package com.employee.salary;
-
-import sal;
-
-public class BaseSalariedCommissionEmployees extends sal {
-
-}

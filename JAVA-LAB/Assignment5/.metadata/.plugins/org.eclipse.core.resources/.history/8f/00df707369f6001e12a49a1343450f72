@@ -1,5 +1,0 @@
-package com.sunbeam.interfaces;
-
-public interface Acceptable {
-
-}
